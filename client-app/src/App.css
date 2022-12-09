@@ -1,0 +1,24 @@
+.card {
+  background-color: rgb(243, 236, 247);
+  border: none;
+}
+
+.centered {
+  text-align: center;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.m-t-10 {
+  margin-top: 10px;
+}
+
+.m-t-15 {
+  margin-top: 15px;
+}
+
+.m-b-15 {
+  margin-bottom: 15px;
+}
